@@ -77,7 +77,7 @@ Consider what David tends to do:
 
     def chorus(b):
     """
-     Sings about a number, b, of bottles.
+    Sings about a number, b, of bottles.
     """
     
     s1 = "bottles"
